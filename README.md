@@ -4,12 +4,12 @@ Ce script Python télécharge et analyse les données de production et de consom
 
 ### 📥 Prérequis
 
-- Python 3.7+
-- Bibliothèques requises :
+Bibliothèques requises :
   ```bash
   pip install pandas requests 
   ```
 ou bien 
+
   ```bash
   pip install -r requirements.txt
   ```
@@ -59,13 +59,7 @@ This Python script downloads and analyzes electricity production and consumption
 
 ### 📥 Requirements
 
-- Python 3.7+
-- Required libraries:
-  ```bash
-  pip install pandas requests
-
-### 🚀 How to Run
-
+Required libraries:
   ```bash
   pip install pandas requests 
   ```
@@ -73,7 +67,11 @@ or
   ```bash
   pip install -r requirements.txt
   ```
+### 🚀 How to Run
 
+```bash
+python total_nuc.py
+```
 
 ### 📄 Sample Output
 
@@ -106,4 +104,3 @@ Data provided by [RTE France – eco2mix](https://www.rte-france.com/eco2mix)
 ---
 
 The output is in French. Deal with it 😊. 
->>>>>>> a273b76 (Initial commit ⚛️)

@@ -1,6 +1,6 @@
 # Production nucléaire annuelle en France
 
-Ce script Python télécharge et analyse les données de production et de consommation d'électricité en France, fournies par RTE . Il calcule et affiche la **production nucléaire** et la **consommation totale d'électricité en France**, pour chaque mois et pour l'année en cours.
+Ce script Python télécharge et analyse les données de production nucléaire et de consommation d'électricité en France, fournies par RTE . Il calcule et affiche la **production nucléaire** et la **consommation totale d'électricité en France**, pour chaque mois et pour l'année en cours.
 
 ### 📥 Prérequis
 
@@ -55,7 +55,7 @@ Juillet 2025            4,46               5,64
 
 # Annual Nuclear Production in France
 
-This Python script downloads and analyzes electricity production and consumption data in France, provided by RTE. It focuses on **nuclear power production** and **total electricity consumption**, calculating the monthly totals for the current year.
+This Python script downloads and analyzes nuclear electricity production and consumption data in France, provided by RTE. It focuses on **nuclear power production** and **total electricity consumption**, calculating the monthly totals for the current year.
 
 ### 📥 Requirements
 
